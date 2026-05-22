@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoxRift.aternos.me:47428",
+    "ip": "NoxRift.aternos.me",
     "port": 47428,
     "version": "1.21.11",
     "try-creative": false
